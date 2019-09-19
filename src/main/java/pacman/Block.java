@@ -16,6 +16,7 @@ public class Block extends Piece{
     
     public Block(){
     this.color = new Color(159, 114, 6);
+    this.color = Color.DARK_GRAY;
     }
 
     @Override
